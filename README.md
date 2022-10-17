@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Bhargav2506
+- 👋 Hi, I’m @Bhargav
 - 👀 I’m interested in coding.
 - 🌱 I’m currently learning data science.
 - 📫 How to reach me dixith25@gmail.com
